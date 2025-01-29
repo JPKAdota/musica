@@ -3,14 +3,6 @@ import os
 # Configuração
 pasta_dos_blocos = r"C:\Users\curad\OneDrive\Área de Trabalho\musica\played_musics\played_musics"  # Altere para o caminho correto
 musicas_a_procurar = [
-    "Joga Pra Lua",
-    "Paradinha",
-    "rap da felicidade",
-    "Trem das Onze",
-    "Oyá",
-    "Esperanças Perdidas",
-    "Amor de Pai",
-    "Vai Doer",
     # Adicione mais músicas aqui
 ]
 
